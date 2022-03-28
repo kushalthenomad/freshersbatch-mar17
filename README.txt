@@ -1,1 +1,1 @@
-kushal This is the assignments git file for freshers 2022 batch vdbdbdbdbdb
+ js assignments kushal This is the assignments git file for freshers 2022 batch vdbdbdbdbdb
